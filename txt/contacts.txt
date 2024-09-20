@@ -1,0 +1,10 @@
+--------------------------
+Developer Contact Details
+--------------------------
+
+Sowjanya Bheemineni [016672214] : sowjanya.bheemineni@sjsu.edu
+
+--------------------------
+This website is made as a final project for CMPE 272 (Fall 2023) under Prof. Richard Sinn at San Jose State University.
+
+The content on this website is NOT real or functional.
